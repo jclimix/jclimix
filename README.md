@@ -1,4 +1,3 @@
-
 # JCLimix | Github Readme
 
 ![Profile Banner](https://i.ibb.co/F87p8DQ/kirby-custom-sprite-preview-by-hartflip0218-dcmbetv.gif)
@@ -15,6 +14,24 @@ Hi there, I'm James Ezeilo and I enjoy using my knowledge of coding and sports a
 - **Languages**: Python, HTML, CSS
 - **Frameworks**: Flask
 - **Tools**: Git, Docker, VS Code
+
+## 🏀 NBA GOAT Calculator Project
+The NBA GOAT (Greatest of All Time) Calculator is a Python web application that allows users to input various criteria to rank NBA players from past and present. The goal of this project is to create an estimated 'Top 100' list based on user-defined metrics.
+
+### [Link Here](https://nba-goat-calculator-fobx.onrender.com/)
+
+### Technologies Used
+- **Backend**: Python, Flask
+- **Frontend**: HTML, CSS
+- **Data**: Pandas, NumPy
+
+### Future Plans
+- Incorporate advanced statistical models to enhance the ranking algorithm.
+- Add more interactive elements and visualizations.
+- Expand the dataset to include more players and seasons.
+
+### Feedback
+Feel free to open issues or pull requests if you have suggestions for improvements or find any bugs. Your feedback is highly appreciated!
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jclimix&show_icons=true&theme=radical)
