@@ -33,6 +33,9 @@ The NBA GOAT (Greatest of All Time) Calculator is a Python web application that 
 ### Feedback
 Feel free to open issues or pull requests if you have suggestions for improvements or find any bugs. Your feedback is highly appreciated!
 
+### Why "JCLimix"?
+The name JCLimix is a shortened version of the phrase 'James Challenges Limits' replacing the 's' with an 'x' to represent the unknown.
+
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jclimix&show_icons=true&theme=radical)
 
