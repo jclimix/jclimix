@@ -18,7 +18,7 @@ Hi there, I'm James Ezeilo and I enjoy using my knowledge of coding and sports a
 ## 🏀 NBA GOAT Calculator Project
 The NBA GOAT (Greatest of All Time) Calculator is a Python web application that allows users to input various criteria to rank NBA players from past and present. The goal of this project is to create an estimated 'Top 100' list based on user-defined metrics.
 
-### [Try It Out!]([https://nba-goat-calculator-fobx.onrender.com/)](https://nba-goat-calc.universe-j.com/)
+### [Try It Out!](https://nba-goat-calc.universe-j.com/)
 
 ### Technologies Used
 - **Backend**: Python, Flask
