@@ -38,4 +38,4 @@ Feel free to open issues or pull requests if you have suggestions for improvemen
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/james-ezeilo/)
-- [More About Me](https://linktr.ee/jaezeilo)
+- [More About Me](https://link.me/jmge.work)
