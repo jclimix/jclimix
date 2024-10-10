@@ -3,22 +3,38 @@
 ![Profile Banner](https://i.ibb.co/F87p8DQ/kirby-custom-sprite-preview-by-hartflip0218-dcmbetv.gif)
 
 ## About Me
-Hi there, I'm James Ezeilo and I enjoy using my knowledge of coding and sports analytics to make fun and inciteful projects that aim to change the game! This tends to involve interactive dashboards, predictive models, or visualizing complex datasets.
+Hi there, I'm James Ezeilo, and I enjoy using my knowledge of coding and sports analytics to create fun and insightful projects that aim to change the game! This often involves building interactive dashboards, predictive models, or visualizing complex datasets.
 
-- 🔭 I’m working on a Python web application that takes user input to rank past and present NBA players, effectively creating an estimated 'Top 100' list.
-- 💬 Ask me about the project above and give me feedback or advice if possible!
+- 🔭 I’m currently working on two exciting Python web applications: HooperDNA and the NBA GOAT Calculator.
+- 💬 Ask me about these projects and share your feedback or advice if possible!
 - 📫 How to reach me: [jmge.work@gmail.com](mailto:jmge.work@gmail.com)
-- ⚡ Fun fact: I actually used data analysis to win money in a fantasy sports league (totally legal). Also my Smash main is Kirby...in case that wasn't obvious.
+- ⚡ Fun fact: I used data analysis to win money in a fantasy sports league (totally legal). Also, my Smash main is Kirby... in case that wasn't obvious.
 
-## 🛠️ My Skills
-- **Languages**: Python, HTML, CSS
-- **Frameworks**: Flask
-- **Tools**: Git, Docker, VS Code
+## 🏀 HooperDNA Project
+HooperDNA is a dynamic tool for basketball fans and analysts that allows users to compare college basketball players to NBA professionals based on statistical similarities. By analyzing player stats across seasons (2015-2024), HooperDNA helps predict how a college star might perform in the NBA.
+
+### [Try It Out!](https://hooperdna.universe-j.com/)
+
+### Features
+- Compare stats between college and NBA players.
+- Analyze player data from seasons 2015-2024.
+- Automated updates using Airflow and cloud storage via AWS S3.
+- Access through both a web interface and a Django-built API.
+
+### Technologies Used
+- **Backend**: Python, Flask, Django (API)
+- **Data**: Pandas, NumPy, BeautifulSoup (for scraping), Boto3 (AWS S3 integration)
+- **Automation**: Airflow (for scheduled data updates)
 
 ## 🏀 NBA GOAT Calculator Project
 The NBA GOAT (Greatest of All Time) Calculator is a Python web application that allows users to input various criteria to rank NBA players from past and present. The goal of this project is to create an estimated 'Top 100' list based on user-defined metrics.
 
 ### [Try It Out!](https://nba-goat-calc.universe-j.com/)
+
+### Features
+- Rank NBA players based on customizable metrics.
+- Create an estimated 'Top 100' list of all-time greats.
+- Interactive ranking and easy-to-use web interface.
 
 ### Technologies Used
 - **Backend**: Python, Flask
@@ -26,15 +42,15 @@ The NBA GOAT (Greatest of All Time) Calculator is a Python web application that 
 - **Data**: Pandas, NumPy
 
 ### Future Plans
-- Incorporate more advanced stats to improve the ranking algorithm.
+- Incorporate advanced stats to refine the ranking algorithm.
 - Add more interactive elements and visualizations.
-- Allow users to easily save and share "list profiles" with others. 
+- Allow users to save and share "list profiles" with others.
 
-### Feedback
-Feel free to open issues or pull requests if you have suggestions for improvements or find any bugs. Your feedback is highly appreciated!
-
-### Why "JCLimix"?
-The name JCLimix is a shortened version of the phrase 'James Challenges Limits' replacing the 's' with an 'x' to represent the unknown.
+## 🛠️ My Skills
+- **Languages**: Python, HTML, CSS
+- **Frameworks**: Flask, Django
+- **Tools**: Git, Docker, VS Code
+- **Automation**: Airflow
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jclimix&show_icons=true&theme=radical)
