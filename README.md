@@ -10,23 +10,26 @@ Hi there, I'm James Ezeilo, and I enjoy using my knowledge of coding and sports 
 - 📫 How to reach me: [jmge.work@gmail.com](mailto:jmge.work@gmail.com)
 - ⚡ Fun fact: I used data analysis to win money in a fantasy sports league (totally legal). Also, my Smash main is Kirby... in case that wasn't obvious.
 
-## 🏀 HooperDNA Project
-HooperDNA is a dynamic tool for basketball fans and analysts that allows users to compare college basketball players to NBA professionals based on statistical similarities. By analyzing player stats across seasons (2015-2024), HooperDNA helps predict how a college star might perform in the NBA.
+## 🏀🧬 HooperDNA Project  
+HooperDNA is a dynamic tool that takes college basketball players as input, analyzes their stats, and compares them with the stats of all NBA players from 2015 to the present. The tool identifies the most similar statistical match, providing valuable insights into how a college star might perform in the NBA.
 
 ### [Try It Out!](https://hooperdna.universe-j.com/)
 
 ### Features
-- Compare stats between college and NBA players.
-- Analyze player data from seasons 2015-2024.
-- Automated updates using Airflow and cloud storage via AWS S3.
-- Access through both a web interface and a Django-built API.
+- Input college basketball players to compare with NBA players.
+- Analyze stats from NBA seasons between 2015 and the present.
+- Automatically find the most similar NBA player based on statistical similarities.
+- Data is continuously updated via automated scripts using Airflow, with datasets stored on AWS S3.
+- Provides both a web interface and an API (built using Django) for access.
 
 ### Technologies Used
 - **Backend**: Python, Flask, Django (API)
-- **Data**: Pandas, NumPy, BeautifulSoup (for scraping), Boto3 (AWS S3 integration)
+- **Frontend**: HTML, CSS
+- **Data**: Pandas, NumPy, DuckDB, BeautifulSoup (for scraping), Boto3 (AWS S3 integration)
 - **Automation**: Airflow (for scheduled data updates)
 
-## 🏀 NBA GOAT Calculator Project
+
+## 🏀🐐 NBA GOAT Calculator Project
 The NBA GOAT (Greatest of All Time) Calculator is a Python web application that allows users to input various criteria to rank NBA players from past and present. The goal of this project is to create an estimated 'Top 100' list based on user-defined metrics.
 
 ### [Try It Out!](https://nba-goat-calc.universe-j.com/)
@@ -47,7 +50,7 @@ The NBA GOAT (Greatest of All Time) Calculator is a Python web application that 
 - Allow users to save and share "list profiles" with others.
 
 ## 🛠️ My Skills
-- **Languages**: Python, HTML, CSS
+- **Languages**: Python, SQL, HTML, CSS
 - **Frameworks**: Flask, Django
 - **Tools**: Git, Docker, VS Code
 - **Automation**: Airflow
