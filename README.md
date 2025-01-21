@@ -10,6 +10,24 @@ Hi there, I'm James Ezeilo, and I enjoy using my knowledge of coding and sports 
 - 📫 How to reach me: [jmge.work@gmail.com](mailto:jmge.work@gmail.com)
 - ⚡ Fun fact: I used data analysis to win money in a fantasy sports league (totally legal). Also, my Smash main is Kirby... in case that wasn't obvious.
 
+## 🏥📊 PediaMetrics Project  
+PediaMetrics is a pediatric healthcare analytics tool that automates patient data generation, triage, diagnostics, and treatment recommendations to enhance medical decision-making.
+
+### [Try It Out!](https://pediametrics.universe-j.com/)
+
+### Features  
+- Generate realistic pediatric patient profiles with age, gender, vitals, and more.  
+- Assign vitals like heart rate, BMI, blood pressure, and temperature.  
+- Simulate blood test results tailored to age and gender.  
+- Predict potential diseases based on symptoms and clinical data.  
+- Provide treatment recommendations based on disease likelihood scores.  
+- Generate structured visit reports in PDF format for patient records.  
+
+### Technologies Used  
+- **Backend**: Python, Flask 
+- **Data Processing**: Pandas, NumPy, Boto3 (AWS S3 integration)  
+- **Automation**: Airflow (for scheduled data updates)  
+
 ## 🏀🧬 HooperDNA Project  
 HooperDNA is a dynamic tool that takes college basketball players as input, analyzes their stats, and compares them with the stats of all NBA players from 2015 to the present. The tool identifies the most similar statistical match, providing valuable insights into how a college star might perform in the NBA.
 
