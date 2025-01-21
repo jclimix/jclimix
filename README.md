@@ -5,7 +5,7 @@
 ## About Me
 Hi there, I'm James Ezeilo, and I enjoy using my knowledge of coding and sports analytics to create fun and insightful projects that aim to change the game! This often involves building interactive dashboards, predictive models, or visualizing complex datasets.
 
-- 🔭 I’m currently working on two exciting Python web applications: HooperDNA and the NBA GOAT Calculator.
+- 🔭 I really enjoy working on projects related to sports and healthcare!
 - 💬 Ask me about these projects and share your feedback or advice if possible!
 - 📫 How to reach me: [jmge.work@gmail.com](mailto:jmge.work@gmail.com)
 - ⚡ Fun fact: I used data analysis to win money in a fantasy sports league (totally legal). Also, my Smash main is Kirby... in case that wasn't obvious.
