@@ -3,9 +3,7 @@
 ![Profile Banner](https://i.ibb.co/F87p8DQ/kirby-custom-sprite-preview-by-hartflip0218-dcmbetv.gif)
 
 ## 👋 About Me
-Hi, I'm **James Ezeilo** — a creator, coder, and strategist who loves transforming ideas into **data-driven experiences**.
-
-Whether it's building predictive models, web scraping for hidden insights, or crafting interactive dashboards — I use **code + data** to unlock hidden stories, especially in **sports** and **healthcare**.
+Yo, I'm **James Ezeilo** — creator, coder, and strategist who loves transforming ideas into **data-driven experiences**.
 
 - 🔭 Passion Projects: **Basketball analytics**, **Healthcare innovation**
 - 🛠️ Favorite Tools: **Python**, **Flask**, **SQL**, **Pandas**, **AWS S3**, **Airflow**
