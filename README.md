@@ -1,4 +1,4 @@
-# 🎮 JCLimix | GitHub Readme
+# 🎮 JCLimix | GitHub Readme (I'm too lazy to write these so here's what AI made with my github and resume)
 
 ![Profile Banner](https://i.ibb.co/F87p8DQ/kirby-custom-sprite-preview-by-hartflip0218-dcmbetv.gif)
 
